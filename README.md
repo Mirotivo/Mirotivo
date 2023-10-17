@@ -1,5 +1,3 @@
-# Amr Badr
-
 ## About Me
 
 I possess a versatile skill set in computer engineering, with a strong emphasis on deep learning and software development. My expertise covers a wide spectrum, including digital circuit design, computer architecture, OS development, and compiler design. This knowledge is underpinned by a deep understanding of software development principles from the ground up.
