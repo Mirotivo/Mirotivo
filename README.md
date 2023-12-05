@@ -98,6 +98,7 @@ In summary, my unique skill set places a strong emphasis on deep learning and so
 ### Demos & Tutorials
 - [AWS Services]: [AWS Services](https://github.com/Mirotivo/aws-services).
 - [AWS ECR]: [AWS ECR](https://github.com/Mirotivo/aws-ecr).
+- [Python Demos]: [Python Demos]([https://github.com/Mirotivo/aws-ecr](https://github.com/Mirotivo/python_demos)).
 <!-- 
 - [Statistics]: [Statistics ](https://github.com/Mirotivo/aws-ecr).
 -->
