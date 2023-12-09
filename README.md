@@ -63,18 +63,11 @@ In summary, my unique skill set places a strong emphasis on deep learning and so
 ## Projects
 ### Portofolio
 - [Mirotivo]: [Mirotivo ](https://github.com/Mirotivo/Mirotivo).
- <!-- 
-### Personal
-- [Taxes]: [Taxes ](https://github.com/Mirotivo/Taxes).
--->
+
 ### Web Development
 - [KDS]: [KDS ](https://github.com/Mirotivo/kds).
 - [Calculator]: [Calculator ](https://github.com/Mirotivo/CalculatorService).
 - [RTM]: [RTM ](https://github.com/Mirotivo/RTM).
-<!-- 
-- [Enigma]: [Enigma ](https://github.com/Mirotivo/enigma).
-- [vickersalloys]: [vickersalloys ](https://github.com/Mirotivo/vickersalloys).
--->
 
 ### Mobile Development
 - [MAUI]: [MAUI ](https://github.com/Mirotivo/MyMauiApp).
@@ -86,10 +79,6 @@ In summary, my unique skill set places a strong emphasis on deep learning and so
 - [Snow Leopard Detection]: [Experimented with mmdetection](https://github.com/Mirotivo/snow_leopard_detection).
 - [Super Resolution]: [Super Resolution](https://github.com/Mirotivo/NTIRE_super_resolution).
 - [Ear Pinna Identification]: [Ear Pinna Identification](https://github.com/Mirotivo/AEPI-Automated-Ear-Pinna-Identification).
-<!-- 
-- [DNN Framework]: [DNN Framework](https://github.com/Mirotivo/dnn_framework).
-- [Snow Leopard Detection Thesis]: [Experimented with mmdetection](https://github.com/Mirotivo/snow_leopard_thesis).
--->
 
 ### Low Level Development
 - [Sima]: [Sima ](https://github.com/Mirotivo/Sima).
@@ -99,7 +88,25 @@ In summary, my unique skill set places a strong emphasis on deep learning and so
 - [AWS Services]: [AWS Services](https://github.com/Mirotivo/aws-services).
 - [AWS ECR]: [AWS ECR](https://github.com/Mirotivo/aws-ecr).
 - [Python Demos]: [Python Demos](https://github.com/Mirotivo/python_demos).
-<!-- 
+
+<!--
+## Private Projects
+### Personal
+- [Taxes]: [Taxes ](https://github.com/Mirotivo/Taxes).
+
+### Web Development
+- [Enigma]: [Enigma ](https://github.com/Mirotivo/enigma).
+- [vickersalloys]: [vickersalloys ](https://github.com/Mirotivo/vickersalloys).
+
+### Mobile Development
+
+### ML/DL
+- [DNN Framework]: [DNN Framework](https://github.com/Mirotivo/dnn_framework).
+- [Snow Leopard Detection Thesis]: [Experimented with mmdetection](https://github.com/Mirotivo/snow_leopard_thesis).
+
+### Low Level Development
+
+### Demos & Tutorials
 - [Statistics]: [Statistics ](https://github.com/Mirotivo/aws-ecr).
 -->
 
