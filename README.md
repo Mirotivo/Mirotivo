@@ -64,6 +64,13 @@ In summary, my unique skill set places a strong emphasis on deep learning and so
 ### Portofolio
 - [Mirotivo]: [Mirotivo ](https://github.com/Mirotivo/Mirotivo).
 
+### Low Level Development
+- [Sima]: [Sima ](https://github.com/Mirotivo/Sima).
+- [Assembly]: [Assembly ](https://github.com/Mirotivo/x86-os).
+
+### Computer Systems Development
+- [Nand2Tetris]: [Nand2Tetris ](https://github.com/Mirotivo/hack).
+
 ### Web Development
 - [KDS]: [KDS ](https://github.com/Mirotivo/kds).
 - [Calculator]: [Calculator ](https://github.com/Mirotivo/CalculatorService).
@@ -79,10 +86,6 @@ In summary, my unique skill set places a strong emphasis on deep learning and so
 - [Snow Leopard Detection]: [Experimented with mmdetection](https://github.com/Mirotivo/snow_leopard_detection).
 - [Super Resolution]: [Super Resolution](https://github.com/Mirotivo/NTIRE_super_resolution).
 - [Ear Pinna Identification]: [Ear Pinna Identification](https://github.com/Mirotivo/AEPI-Automated-Ear-Pinna-Identification).
-
-### Low Level Development
-- [Sima]: [Sima ](https://github.com/Mirotivo/Sima).
-- [Assembly]: [Assembly ](https://github.com/Mirotivo/x86-os).
 
 ### Demos & Tutorials
 - [AWS Services]: [AWS Services](https://github.com/Mirotivo/aws-services).
@@ -107,7 +110,7 @@ In summary, my unique skill set places a strong emphasis on deep learning and so
 ### Low Level Development
 
 ### Demos & Tutorials
-- [Statistics]: [Statistics ](https://github.com/Mirotivo/aws-ecr).
+- [Statistics]: [Statistics ](https://github.com/Mirotivo/statistics).
 -->
 
 ## Connect with Me
