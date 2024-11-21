@@ -14,7 +14,7 @@ In summary, my unique skill set places a strong emphasis on deep learning and so
 
 ## Experience
 
-### Software Engineer at Butterfly Systems (May 2023 - Present)
+### Software Engineer at Butterfly Systems (May 2023 - Nov 2024)
 
 - In my current role, I focus on developing innovative software solutions aimed at streamlining surgery inventory management within operating theatres. This involves automating tasks such as inventory stock take and replenishment while also creating surgeon-specific file master cards. Additionally, I contribute to the development of real-time recording systems designed to automate surgical setup. My mission is to revolutionize surgical inventory management, ultimately enhancing efficiency and precision in healthcare settings.
 
