@@ -70,6 +70,7 @@ In summary, my unique skill set places a strong emphasis on deep learning and so
 
 ### Computer Systems Development
 - [Nand2Tetris]: [Nand2Tetris ](https://github.com/Mirotivo/hack).
+- [Jack OS SDK Emulator]: [Jack OS SDK Emulator ](https://github.com/Mirotivo/JackEmulator).
 
 ### Web Development
 - [KDS]: [KDS ](https://github.com/Mirotivo/kds).
